@@ -31,7 +31,7 @@ The weights of trained models are in 'Experiments/table1' folder
 
 # Results & Performance
 
-## NMSE (dB) Performance and Parameter Comparison
+## NMSE (dB) Performance and Parameter Comparison for reduction of 1/4
 ```markdown
 | Model | η=1/4 | η=1/8 | η=1/16 | η=1/32 | η=1/64 | Parameters |
 |-------|--------|--------|---------|---------|---------|------------|
