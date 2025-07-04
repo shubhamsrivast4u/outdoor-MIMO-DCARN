@@ -1,4 +1,4 @@
-# DCARN: Efficient Channel State Feedback for Massive MIMO Systems in Outdoor Scenarios
+# DCARN: A Dual Channel Aggregated Reconstruction Network for Efficient CSI Feedback in Outdoor MIMO Scenarios
 
 Official implementation of "DCARN: Efficient Channel State Feedback for Massive MIMO Systems in Outdoor Scenarios" by Shubham Srivastava and Adrish Banerjee.
 
